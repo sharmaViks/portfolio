@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Vikrant Sharma",
+    "occupation": "Software Developer",
+    "description": "currently employed by ",
+    "jobDescription": "where I work as a frontend developer working at the client site in React Framewor.",
+    "employer": "Mobile Programming LLC ",
+    "image": "profilepic.jpeg",
+    "bio": "I am a passionate learner & keep myself updated with the upcoming technologies. I try to engage myself to learn new things.Since beginning my career there, I am growing technically via learning new technologies.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "vikrantsharma725@gmail.com",
+    "phone": "+91 9780066849",
+    "address": {
+      "street": "Sector 22A",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zip": "122016"
+    },
+    "website": "http://www.vikrantsharma.web.app",
+    "resumedownload": "https://drive.google.com/file/d/1GPrzzQjHQAqwAi2S7p2qaMdEXXG3zBsE/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://www.facebook.com/vikrant.sharma.16752",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/vikrant-sharma-209575104/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://www.instagram.com/vikrant.sharma.16752",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sharmaViks",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "UIET,Panjab University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "July 2017",
+        "description": "I completed my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      }
+    ],
+    "work": [
+      {
+        "company": "Mobile Programming LLC",
+        "title": "Software Developer",
+        "years": "September 2019 - Present",
+        "description": "For most of the time at Mobile Programming , I have worked as a Frontend Developer.Then I got the opportunity to work for their client Oppo & it was the first time when I started learning React JS. Here I also got the chance to dig in Backend also. So I started working on Node Js along with Mongo DB database. I have worked extensively with React/Redux as well as with react hooks."
+      },
+      {
+        "company": "Infosys Limited",
+        "title": "Systems Engineer",
+        "years": "May 2018 - September 2019",
+        "description": "After the 4 months training at the Mysuru campus , I got the opportunity to work at Pune location. Here I was mapped to British Telecom (BT) project and started working in JAVA. Here I learned how to brush up your problem solving skills.I worked on different testing tasks.How to keep growing your knowledge with advance frameworks , I learned from this company. "
+      },
+      {
+        "company": "Jungleworks",
+        "title": "Software Developer",
+        "years": "February 2017 - April 2018",
+        "description": "It was the beginning of my career as a Frontend developer. After 6 months training on HTML, CSS, Angular 1.0 , I started working on the company's product Tookan. Here I learnt how the real scenarios work and how to handle those. Daily client calls and interactive sessions helped me to grow my skills.I worked individually on the live projects and handling them by my own at the same time."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      },{
+        "description": "I started my career with Angular JS and as the different versions of Angular were released , I have skilled myself with each version and recently worked on Angular 8.",
+        "image": "angular.png",
+        "name": "Angular"
+      },
+      {
+        "name":"React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have worked on Advisor Investor Portal which is basically a starting point for learning React JS.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image":"mongo.jpg"
+      },
+
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. Its been recent that I have started working on Node JS along with the React JS.",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.Apart from that I have worked on Material UI also.",
+        "image":"bootstrap.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Unnatt",
+        "category": "Advisor Investor Portal For Mutual Funds",
+        "image": "unnatt.jpg",
+        "url": "https://www.unnatt.com/"
+      },
+      {
+        "title": "Tookan",
+        "category": "Delivery Management Product",
+        "image": "tookan.jpg",
+        "url": "https://app.tookanapp.com/#/page/login"
+      },
+      {
+        "title": "Weego",
+        "category": "Lebanon based Courier Tracking Portal",
+        "image": "weego.jpeg",
+        "url": "https://weego.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Vikrant on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Gurpreet Singh - Web Developer at Clicklabs"
+      }
+    ]
+  }
+}
